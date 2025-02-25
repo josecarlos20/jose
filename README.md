@@ -39,3 +39,20 @@ class JoseCarlos:
 
 if __name__ == "__main__":
     yo = JoseCarlos()
+
+🛠 Mi Stack Tecnológico
+🌐 Desarrollo Web
+HTML5
+CSS3
+JavaScript
+React
+
+📡 Telecomunicaciones
+Cisco
+Wireshark
+Arduino
+
+💻 Backend & Bases de Datos
+Python
+Java
+MySQL
