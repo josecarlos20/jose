@@ -42,19 +42,22 @@
 
 ---
 
-## 🌟 **Sobre Mí** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
 ```javascript
 const joseCarlos = {
-  edad: 24,
-  universidad: "Universidad de Manizales",
-  carrera: "Ingeniería en Sistemas y Telecomunicaciones",
-  habilidades: ["Desarrollo Web", "Redes Cisco", "IoT", "Cloud Computing"],
-  tecnologias: {
-    frontend: ["HTML", "CSS", "JavaScript", "React"],
+  📌 edad: 24,
+  🎓 formación: "Ingeniería en Sistemas y Telecomunicaciones",
+  🏛 universidad: "Universidad de Manizales",
+  💻 especialidades: ["Full Stack Development", "Redes Avanzadas", "IoT"],
+  🌟 pasiones: [
+    "Crear soluciones tecnológicas innovadoras", 
+    "Automatización de procesos",
+    "Desarrollo de sistemas embebidos"
+  ],
+  🚀 meta: "Revolucionar la industria tecnológica con proyectos de impacto social",
+  🔧 stack: {
+    frontend: ["React", "JavaScript", "Tailwind CSS"],
     backend: ["Node.js", "Python", "Java"],
-    redes: ["Packet Tracer", "Wireshark", "Arduino"],
-    basesDatos: ["MySQL", "MongoDB"]
-  },
-  meta: "Transformar ideas en soluciones tecnológicas innovadoras 💡"
+    redes: ["Cisco Packet Tracer", "Wireshark", "Arduino"],
+    databases: ["MySQL", "MongoDB", "Firebase"]
+  }
 };
