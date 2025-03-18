@@ -109,20 +109,3 @@ MySQL
 
 ---
 
-## 🎓 **Sobre Mí** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
-```python
-class IngenieroSistemas:
-    def __init__(self):
-        self.nombre = "José Carlos Espinosa Acevedo"
-        self.edad = 24
-        self.🏫 = "Universidad de Manizales"
-        self.🎓 = "Ingeniería en Sistemas y Telecomunicaciones"
-        self.🚀 = ["Desarrollo Software", "Redes Avanzadas", "IoT", "Cloud Computing"]
-        self.💡 = lambda: "Innovación tecnológica con impacto social"
-        
-    def __str__(self):
-        return f"{self.nombre} | {self.🎓} | 🌍 Colombia"
-
-if __name__ == "__main__":
-    yo = IngenieroSistemas()
-    print(f"🔥 {yo}")
