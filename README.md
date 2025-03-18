@@ -39,7 +39,6 @@ class JoseCarlos:
 
 if __name__ == "__main__":
     yo = JoseCarlos()
-
 🛠 Mi Stack Tecnológico
 🌐 Desarrollo Web
 HTML5
@@ -51,6 +50,47 @@ React
 Cisco
 Wireshark
 Arduino
+
+💻 Backend & Bases de Datos
+Python
+Java
+MySQL
+
+� Proyectos Destacados
+<div align="center">
+🧠 Sistema de Gestión Universitaria	🌐 Simulador de Redes	🤖 Robot Autónomo IoT
+Repo	Repo	Repo
+Plataforma integrada para gestión académica	Simulación de topologías de red con Cisco	Control remoto mediante MQTT y Raspberry Pi
+Python/Django	Packet Tracer	Python/Arduino
+</div>
+📊 Mis Estadísticas GitHub
+<div align="center">
+Estadísticas
+Lenguajes
+Streak
+
+</div>
+🌱 Mi Ruta de Aprendizaje 2024
+mermaid
+Copy
+graph TD
+    A[Ingeniería en Sistemas] --> B(Desarrollo Full Stack)
+    A --> C(Redes Avanzadas)
+    B --> D[React Avanzado]
+    B --> E[Node.js]
+    C --> F[Seguridad en Redes]
+    C --> G[Cloud Computing]
+📬 ¡Trabajemos Juntos!
+<div align="center">
+Twitter
+Instagram
+Discord
+
+</div>
+<div align="center">
+✨ "La tecnología es el arte de convertir la ciencia ficción en realidad cotidiana" - José Carlos Espinosa
+
+</div> ```
 
 💻 Backend & Bases de Datos
 Python
