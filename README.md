@@ -1,111 +1,60 @@
-<!-- BANNER CON EFECTO NEÓN -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JoseCarlosEA/JoseCarlosEA/main/banner_jose.png" alt="Banner Jose Carlos" width="100%">
+  <img src="https://raw.githubusercontent.com/JoseCarlosEA/JoseCarlosEA/main/banner_jose.png" alt="Banner Jose Carlos" width="100%" style="border-radius: 15px; box-shadow: 0 0 20px #4B0082;">
 </div>
 
 <br>
 
-<h1 align="center">🔥 ¡Hola! Soy <span style="color: #4B0082; text-shadow: 0 0 10px #9370DB">José Carlos Espinosa Acevedo</span> 👨💻</h1>
+<h1 align="center" style="position: relative;">
+  <span style="
+    background: linear-gradient(45deg, #4B0082, #9370DB);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 20px rgba(75, 0, 130, 0.5);
+  ">🔥 ¡Hola! Soy José Carlos Espinosa Acevedo 👨💻</span>
+</h1>
 
-<h3 align="center">🚀 Futuro Ingeniero en Sistemas y Telecomunicaciones | 📡 Apasionado por la Tecnología & Innovación</h3>
+<h3 align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> 
+  🚀 Futuro Ingeniero en Sistemas y Telecomunicaciones 
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"><br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWY/giphy.gif" width="30"> 
+  📡 Apasionado por la Tecnología & Innovación 
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWY/giphy.gif" width="30">
+</h3>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-CONÉCTATE%20EN%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuperfil)
-[![Email](https://img.shields.io/badge/-ESCRÍBEME%20A%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose.carlos@example.com)
-[![Portafolio](https://img.shields.io/badge/-🌟%20MIRA%20MI%20PORTAFOLIO%20-FF6B6B?style=for-the-badge)](https://tusitio.com)
-
+<div align="center" style="margin: 20px 0">
+  <a href="https://linkedin.com/in/tuperfil" target="_blank">
+    <img src="https://img.shields.io/badge/-CONÉCTATE%20EN%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=25">
+  </a>
+  <a href="mailto:jose.carlos@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-ESCRÍBEME%20A%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25">
+  </a>
+  <a href="https://tusitio.com" target="_blank">
+    <img src="https://img.shields.io/badge/-🌟%20PORTAFOLIO%20DIGITAL-FF6B6B?style=for-the-badge&logo=react&logoColor=white&logoWidth=25">
+  </a>
 </div>
 
 ---
 
-## 📚 **Sobre Mí**
-```python
-class JoseCarlos:
-    def __init__(self):
-        self.nombre = "José Carlos Espinosa Acevedo"
-        self.edad = 24
-        self.universidad = "Universidad de Manizales"
-        self.carrera = "Ingeniería en Sistemas y Telecomunicaciones"
-        self.pasiones = [
-            "Desarrollo de Software", 
-            "Redes y Comunicaciones", 
-            "IoT y Sistemas Embebidos",
-            "Tecnologías Emergentes"
-        ]
-    
-    def objetivo(self):
-        return "Transformar ideas en soluciones tecnológicas innovadoras 💡"
-
-if __name__ == "__main__":
-    yo = JoseCarlos()
-🛠 Mi Stack Tecnológico
-🌐 Desarrollo Web
-HTML5
-CSS3
-JavaScript
-React
-
-📡 Telecomunicaciones
-Cisco
-Wireshark
-Arduino
-
-💻 Backend & Bases de Datos
-Python
-Java
-MySQL
-
-� Proyectos Destacados
 <div align="center">
-🧠 Sistema de Gestión Universitaria	🌐 Simulador de Redes	🤖 Robot Autónomo IoT
-Repo	Repo	Repo
-Plataforma integrada para gestión académica	Simulación de topologías de red con Cisco	Control remoto mediante MQTT y Raspberry Pi
-Python/Django	Packet Tracer	Python/Arduino
-</div>
-📊 Mis Estadísticas GitHub
-<div align="center">
-Estadísticas
-Lenguajes
-Streak
-
-</div>
-🌱 Mi Ruta de Aprendizaje 2024
-mermaid
-Copy
-graph TD
-    A[Ingeniería en Sistemas] --> B(Desarrollo Full Stack)
-    A --> C(Redes Avanzadas)
-    B --> D[React Avanzado]
-    B --> E[Node.js]
-    C --> F[Seguridad en Redes]
-    C --> G[Cloud Computing]
-📬 ¡Trabajemos Juntos!
-<div align="center">
-Twitter
-Instagram
-Discord
-
-</div>
-<div align="center">
-✨ "La tecnología es el arte de convertir la ciencia ficción en realidad cotidiana" - José Carlos Espinosa
-
-</div> ```
-
-💻 Backend & Bases de Datos
-Python
-Java
-MySQL
-<!-- SECCIÓN PRESENTACIÓN CON EFECTO PARALLAX -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=👋+¡Hola!+Soy+José+Carlos+Espinosa+Acevedo" alt="Título animado">
-  
-  <h3 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=🚀+Futuro+Ingeniero+en+Sistemas+y+Telecomunicaciones;💻+Apasionado+Full+Stack+Developer;📡+Especialista+en+Redes+e+IoT" alt="Subtítulos animados">
-    </a>
-  </h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=9370DB&center=true&vCenter=true&width=500&lines=%F0%9F%8C%88+Estudiante+de+Ingenier%C3%ADa;%F0%9F%92%BB+Desarrollador+Full+Stack;%F0%9F%93%A1+Especialista+en+Redes;%F0%9F%94%A5+Apasionado+por+la+Innovaci%C3%B3n" alt="Títulos animados">
 </div>
 
 ---
 
+## 🌟 **Sobre Mí** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+```javascript
+const joseCarlos = {
+  edad: 24,
+  universidad: "Universidad de Manizales",
+  carrera: "Ingeniería en Sistemas y Telecomunicaciones",
+  habilidades: ["Desarrollo Web", "Redes Cisco", "IoT", "Cloud Computing"],
+  tecnologias: {
+    frontend: ["HTML", "CSS", "JavaScript", "React"],
+    backend: ["Node.js", "Python", "Java"],
+    redes: ["Packet Tracer", "Wireshark", "Arduino"],
+    basesDatos: ["MySQL", "MongoDB"]
+  },
+  meta: "Transformar ideas en soluciones tecnológicas innovadoras 💡"
+};
