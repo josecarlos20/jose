@@ -42,22 +42,45 @@
 
 ---
 
-```javascript
+// 🌟 Perfil Profesional de José Carlos 🌟
 const joseCarlos = {
-  📌 edad: 24,
-  🎓 formación: "Ingeniería en Sistemas y Telecomunicaciones",
-  🏛 universidad: "Universidad de Manizales",
-  💻 especialidades: ["Full Stack Development", "Redes Avanzadas", "IoT"],
-  🌟 pasiones: [
-    "Crear soluciones tecnológicas innovadoras", 
-    "Automatización de procesos",
-    "Desarrollo de sistemas embebidos"
-  ],
-  🚀 meta: "Revolucionar la industria tecnológica con proyectos de impacto social",
-  🔧 stack: {
-    frontend: ["React", "JavaScript", "Tailwind CSS"],
-    backend: ["Node.js", "Python", "Java"],
-    redes: ["Cisco Packet Tracer", "Wireshark", "Arduino"],
-    databases: ["MySQL", "MongoDB", "Firebase"]
-  }
+    // 🎓 Educación
+    edad: 24,
+    formación: "Ingeniería en Sistemas y Telecomunicaciones",
+    universidad: "Universidad de Manizales",
+    
+    // 💡 Especialidades
+    especialidades: [
+        "Full Stack Development", 
+        "Redes Avanzadas", 
+        "IoT"
+    ],
+    
+    // ❤️ Pasiones
+    pasiones: [
+        "Crear soluciones tecnológicas innovadoras",
+        "Automatización de procesos",
+        "Desarrollo de sistemas embebidos"
+    ],
+    
+    // 🚀 Meta Principal
+    meta: "Revolucionar la industria tecnológica con proyectos de impacto social",
+    
+    // 🛠 Stack Tecnológico
+    stack: {
+        // 🌐 Frontend
+        frontend: ["React", "JavaScript", "Tailwind CSS"],
+        
+        // ⚙️ Backend
+        backend: ["Node.js", "Python", "Java"],
+        
+        // 📡 Redes
+        redes: ["Cisco Packet Tracer", "Wireshark", "Arduino"],
+        
+        // 🗃 Bases de Datos
+        databases: ["MySQL", "MongoDB", "Firebase"]
+    }
 };
+
+// ✨ Exportando el conocimiento ✨
+module.exports = joseCarlos;
