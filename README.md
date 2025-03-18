@@ -96,3 +96,33 @@ Discord
 Python
 Java
 MySQL
+<!-- SECCIÓN PRESENTACIÓN CON EFECTO PARALLAX -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=60&lines=👋+¡Hola!+Soy+José+Carlos+Espinosa+Acevedo" alt="Título animado">
+  
+  <h3 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=🚀+Futuro+Ingeniero+en+Sistemas+y+Telecomunicaciones;💻+Apasionado+Full+Stack+Developer;📡+Especialista+en+Redes+e+IoT" alt="Subtítulos animados">
+    </a>
+  </h3>
+</div>
+
+---
+
+## 🎓 **Sobre Mí** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+```python
+class IngenieroSistemas:
+    def __init__(self):
+        self.nombre = "José Carlos Espinosa Acevedo"
+        self.edad = 24
+        self.🏫 = "Universidad de Manizales"
+        self.🎓 = "Ingeniería en Sistemas y Telecomunicaciones"
+        self.🚀 = ["Desarrollo Software", "Redes Avanzadas", "IoT", "Cloud Computing"]
+        self.💡 = lambda: "Innovación tecnológica con impacto social"
+        
+    def __str__(self):
+        return f"{self.nombre} | {self.🎓} | 🌍 Colombia"
+
+if __name__ == "__main__":
+    yo = IngenieroSistemas()
+    print(f"🔥 {yo}")
